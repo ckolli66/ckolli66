@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="200" height="200" src="giphy.webp">
 
 <!-- - 👨‍💻 Check out my projects at [https://www.devopsbyshubhankar.click] -->
 - 💬 Let's Talk about **DevOps & Cloud DevOps**
